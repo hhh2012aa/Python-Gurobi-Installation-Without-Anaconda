@@ -12,7 +12,7 @@
 
 #### 3.1 Register and Get your Gurobi Licence from [here](https://www.gurobi.com/downloads/end-user-license-agreement-academic/) (for Academic used only)
 
-#### 3.2 Open your command window and run ```grbgetkey <yourlicence>``` to activate your licence (in this step, you should connect academic network)
+#### 3.2 Open your command window and run ```grbgetkey <yourlicence>``` to activate your licence (in this step, make sure you are using academic network)
 
 #### 4. Download Gurobi software from [here](https://www.gurobi.com/downloads/gurobi-software/)
 
