@@ -2,4 +2,5 @@
 
 
 
-## 1. Install Python 3.7 from [!here](https://www.python.org/ftp/python/3.7.7/python-3.7.7.exe)
+## 1. Install Python 3.7 from [here](https://www.python.org/ftp/python/3.7.7/python-3.7.7.exe)
+****** Notice that don't forget to Choose  "add python to path"
