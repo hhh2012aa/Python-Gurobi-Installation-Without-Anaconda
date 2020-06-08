@@ -6,4 +6,4 @@
 ****** Notice that don't forget to Choose  "add python to path" ![image](path.png)
 
 #### 2. Open your command window and run 
-'pip install jupyter'
+'''pip install jupyter'''
