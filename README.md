@@ -7,3 +7,9 @@
 
 #### 2. Open your command window and run 
 ```pip install jupyter```
+
+-------------------------------------------------------
+
+#### 3. Register and Get your Gurobi Licence from [here](https://www.gurobi.com/downloads/end-user-license-agreement-academic/)
+****** for Academy only
+
