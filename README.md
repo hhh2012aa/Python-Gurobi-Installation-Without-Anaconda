@@ -23,3 +23,5 @@
 #### 7. Open a new command window and run ```jupyter notebook``` to launch your Python IDE.
 
 #### 8. Create a new python file in Jupyter UI and run ```import gurobipy``` to test if your enviorment is installed successfully.
+![image](jupyterUI.png)
+![image](run.png)
