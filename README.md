@@ -16,4 +16,10 @@
 
 #### 4. Download Gurobi software from [here](https://www.gurobi.com/downloads/gurobi-software/)
 
-#### 5. Find the Gurobi folder in your disc (Default in C:\)
+#### 5. Find the Gurobi Python 3.7 folder in your disc (Default in C:\gurobi901\win64) and copy it.
+
+#### 6. Paste the folder to your Python library path e.g.(C:\Users\User\AppData\Local\Programs\Python\Python37\Lib\site-packages), you can find the path via running this ```python -m site --user-site``` in your command line.
+
+#### 7. Open a new command window and run ```jupyter notebook``` to launch your Python IDE.
+
+#### 8. Create a new python file in Jupyter UI and run ```import gurobipy``` to test if your enviorment is installed successfully.
