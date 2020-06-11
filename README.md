@@ -17,6 +17,7 @@
 #### 4. Download Gurobi software from [here](https://www.gurobi.com/downloads/gurobi-software/)
 
 #### 5. Find the Gurobi Python 3.7 folder in your disc (Default in C:\gurobi901\win64) and copy it.
+![image](grb37.png)
 
 #### 6. Paste the folder to your Python library path e.g.(C:\Users\User\AppData\Local\Programs\Python\Python37\Lib\site-packages), you can find the path via running this ```python -m site --user-site``` in your command line.
 ![image](site.PNG)  
