@@ -19,6 +19,8 @@
 #### 5. Find the Gurobi Python 3.7 folder in your disc (Default in C:\gurobi901\win64) and copy it.
 
 #### 6. Paste the folder to your Python library path e.g.(C:\Users\User\AppData\Local\Programs\Python\Python37\Lib\site-packages), you can find the path via running this ```python -m site --user-site``` in your command line.
+note: Check if your File Explorer can see hidden items
+![image](view.png)
 
 #### 7. Open a new command window and run ```jupyter notebook``` to launch your Python IDE.
 
