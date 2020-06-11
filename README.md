@@ -13,7 +13,7 @@
 #### 3.1 Register and Get your Gurobi Licence from [here](https://www.gurobi.com/downloads/end-user-license-agreement-academic/) (for Academic used only)
 
 #### 3.2 Open your command window and run ```grbgetkey <yourlicence>``` to activate your licence (in this step, make sure you are using academic network)
-
+![image](key.png)
 #### 4. Download Gurobi software from [here](https://www.gurobi.com/downloads/gurobi-software/)
 
 #### 5. Find the Gurobi Python 3.7 folder in your disc (Default in C:\gurobi901\win64) and copy it.
