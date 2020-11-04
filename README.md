@@ -24,7 +24,7 @@
 ![image](site.PNG)    
 
 #### 8. Find the gurobipy folder in Python 3.7 version in your disc (Default in C:\gurobi901\win64) and copy it into Python library path.
-![image](grb37.png)
+![image](gurobipy_folder.jpg)
 
 #### 9. Open a new terminal window and run ```jupyter notebook``` to launch your Python IDE.
 
