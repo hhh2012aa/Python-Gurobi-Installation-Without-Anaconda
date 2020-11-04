@@ -5,14 +5,14 @@
 #### 1. Download and Install Python 3.7 64 bit for windows from [here](https://www.python.org/ftp/python/3.7.7/python-3.7.7.exe)
 ****** Notice that don't forget to Choose  "add python to path" ![image](ninstall.jpg)
 
-#### 2. Open your command window and run 
+#### 2. Open your terminal and run 
 ```pip install jupyter```
 
 -------------------------------------------------------
 
 #### 3.1 Register and Get your Gurobi Licence from [here](https://www.gurobi.com/downloads/end-user-license-agreement-academic/) (for Academic used only)
 
-#### 3.2 Open your command window and run ```grbgetkey <yourlicence>``` to activate your licence (in this step, make sure you are using academic network)
+#### 3.2 Open your command window and run ```grbgetkey <your licence>``` to activate your licence (in this step, make sure you are using academic network)
 ![image](key.png)
 #### 4. Download Gurobi software from [here](https://www.gurobi.com/downloads/gurobi-software/)
 
@@ -26,6 +26,6 @@ Note: Ensure your File Explorer can see hidden items
 
 #### 7. Open a new command window and run ```jupyter notebook``` to launch your Python IDE.
 
-#### 8. Create a new python file in Jupyter UI and run ```import gurobipy``` to test if your enviorment is installed successfully.
+#### 8. Create a new Python file in Jupyter UI and run ```import gurobipy``` to test if your enviorment is installed successfully.
 ![image](jupyterUI.png)
 ![image](run.png)
