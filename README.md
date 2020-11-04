@@ -12,21 +12,22 @@
 
 #### 3. Register and Get your Gurobi Licence from [here](https://www.gurobi.com/downloads/end-user-license-agreement-academic/) (for Academic used only)
 
-#### 4. Open your command window and run ```grbgetkey <your licence>``` to activate your licence (in this step, make sure you are using academic network)
-![image](key.png)
-#### 5. Download Gurobi software from [here](https://www.gurobi.com/downloads/gurobi-software/)
+#### 4. Download Gurobi software from [here](https://www.gurobi.com/downloads/gurobi-software/)
 
-#### 6. Find the Gurobi Python 3.7 folder in your disc (Default in C:\gurobi901\win64) and copy it.
-![image](grb37.png)
+#### 5. Open your command window and run ```grbgetkey <your licence>``` to activate your licence (in this step, make sure you are using academic network)
+![image](key.png)
+
+#### 6. Enable your File Explorer to show hidden items  
+![image](view.png)
 
 #### 7. Paste the folder to your Python library path e.g.(C:\Users\User\AppData\Local\Programs\Python\Python37\Lib\site-packages), you can find the path via running this ```python -m site --user-site``` in your command line.
 ![image](site.PNG)    
 
-*Note: Ensure your File Explorer can see hidden items  
-![image](view.png)
+#### 8. Find the gurobipy folder in Python 3.7 version in your disc (Default in C:\gurobi901\win64) and copy it into Python library path.
+![image](grb37.png)
 
-#### 8. Open a new command window and run ```jupyter notebook``` to launch your Python IDE.
+#### 9. Open a new terminal window and run ```jupyter notebook``` to launch your Python IDE.
 
-#### 9. Create a new Python file in Jupyter UI and run ```import gurobipy``` to test if your enviorment is installed successfully.
+#### 10. Create a new Python file in Jupyter UI and run ```from gurobipy import *``` to test if your enviorment is installed successfully.
 ![image](jupyterUI.png)
 ![image](run.png)
