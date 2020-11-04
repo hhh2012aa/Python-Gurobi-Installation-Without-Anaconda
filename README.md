@@ -22,7 +22,7 @@
 #### 7. Paste the folder to your Python library path e.g.(C:\Users\User\AppData\Local\Programs\Python\Python37\Lib\site-packages), you can find the path via running this ```python -m site --user-site``` in your command line.
 ![image](site.PNG)    
 
-*Note: Ensure your File Explorer can see hidden items
+*Note: Ensure your File Explorer can see hidden items  
 ![image](view.png)
 
 #### 8. Open a new command window and run ```jupyter notebook``` to launch your Python IDE.
